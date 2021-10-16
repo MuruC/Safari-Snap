@@ -1,6 +1,6 @@
-# Pet_Island
+# Safari Snap
  
 Due to the privacy policy, I only put part of my codes on github.  
-Cooperated with artist Jerry Liu.  
-Developed from September 2020 to Janurary 2021 at Lilith Company.  
-https://muruc.github.io/pet-island/
+Cooperated with an eight-people team at Lilith Games.  
+Developed from 3/2021 to 7/2021.  
+https://muruc.github.io/Safari-Snap/  
